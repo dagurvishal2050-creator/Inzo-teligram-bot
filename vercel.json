@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "api/telegram-webhook.js",
+      "use": "@vercel/node"
+    }
+  ]
+}
